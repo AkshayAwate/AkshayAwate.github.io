@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on My website</title>
+    <link>https://example.org/about/</link>
+    <description>Recent content in Abouts on My website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All about me</title>
+      <link>https://example.org/about/about/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/about/about/</guid>
+      <description>A SWE.</description>
+    </item>
+  </channel>
+</rss>
